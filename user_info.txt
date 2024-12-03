@@ -1,0 +1,3 @@
+GITBRANCH=workshop/perfect-monitoring
+GITURL=github.com/idany1/devopshift-welcome
+GITUSERNAME=idany1
